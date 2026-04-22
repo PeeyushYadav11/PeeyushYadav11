@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Peeyush Yadav<br><br>🚀 Aspiring Full-Stack Developer | Android & Java Developer | Cybersecurity & AI Enthusiast  <br>💡 I enjoy building real-world applications using Java, React, Node.js, Python, and MongoDB  <br>📱 Experienced in Android app development using Java  <br>🔐 Passionate about secure systems, authentication, and innovations <br>🏆 Hackathon participant (HACK36, SIH Finalist)  <br>📚 Continuously learning and building impactful projects<br>
+👋 Hi, I'm Peeyush Yadav<br><br>🚀 Aspiring Full-Stack Developer | Android & Java Developer | Cybersecurity & AI Enthusiast  <br>💡 I enjoy building real-world applications using Java, React, Node.js, Python, and MongoDB  <br>📱 Experienced in Android app development using Java  <br>🔐 Passionate about secure systems, authentication, and innovations <br>🏆CU AI HackMatrix 2026 Winner <br>🏆 Hackathon participant (HACK36, SIH Finalist)  <br>📚 Continuously learning and building impactful projects<br>
 
 
 ## 🌐 Socials:
